@@ -3,7 +3,7 @@
 alx-low_level_programming
 </h1>
 <p align="center">
-  <img src="https://i.imgur.com/Y0ZCbfN.png" width="auto" alt="low level programming exercices."> <img src="https://i.imgur.com/16odRik.png" width="300" alt="low level programming exercices."> <img src="https://i.imgur.com/Y0ZCbfN.png" width="auto" alt="low level programming exercices.">
+  <img src="https://i.imgur.com/Y0ZCbfN.png" width="auto" alt="low level programming exercices."> <img src="https://i.imgur.com/Y0ZCbfN.png" width="auto" alt="low level programming exercices.">
 </p>
 
 
